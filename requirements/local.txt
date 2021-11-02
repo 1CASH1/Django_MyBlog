@@ -1,0 +1,10 @@
+asgiref
+Django
+django-ckeditor
+django-js-asset
+django-model-utils
+Pillow
+psycopg2
+pytz
+sqlparse
+Unipath
